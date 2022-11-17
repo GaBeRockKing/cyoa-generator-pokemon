@@ -145,10 +145,10 @@ public class Generate {
 
         if (japan || america || france || britain) {
             if (japan) {
-                printFormattedPokemonOption(japanList, hashCode, "An option because of your Japanese heritage or nationality. You may choose to become or later evolve into a Hisuian variant of that pokemon, if applicable, for free.");
+                printFormattedPokemonOption(japanList, hashCode, "An option because of your Japanese heritage or nationality. You may choose to become or later evolve into a Hisuian variant of this pokemon, if applicable, for free.");
             }
             if (america) {
-                printFormattedPokemonOption(americaList, hashCode, "An option because of your American heritage or nationality. You may choose to become or later evolve into an Alolan variant of that pokemon, if applicable, for free.");
+                printFormattedPokemonOption(americaList, hashCode, "An option because of your American heritage or nationality. You may choose to become or later evolve into an Alolan variant of this pokemon, if applicable, for free.");
             }
             if (france) {
                 printFormattedPokemonOption(franceList, hashCode, "An option because of your French heritage or nationality. You gain the capacity for mega evolution for free.");
