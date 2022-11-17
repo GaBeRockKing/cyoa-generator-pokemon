@@ -187,7 +187,7 @@ public class Generate {
         }
 
         if (furry) {
-            printFormattedPokemonOption(furryList, hashCode, "Enabled by you being a furry. Your default level of anthropomorphism cannot be \"Gijinka,\"");
+            printFormattedPokemonOption(furryList, hashCode, "Enabled by you being a furry. Your default level of anthropomorphism cannot be \"Gijinka.\"");
         }
 
         if (meme) {
@@ -211,7 +211,7 @@ public class Generate {
         System.out.println("* You become capable of gigantamaxing once (if applicable) you reach an evolutionary stage capable of gigantamaxing.");
         System.out.println("* You become any other evolutionary stage or alternate evolution from the same evolutionary line as the pokemon you selected. (You cannot choose to become a regional form of your pokemon unless you are already a preceding regional form.)");
         System.out.println("* Select another pokemon from your options. You maintain the powers and prerequisites of your first selected pokemon, but may hybridize your appearance to any sensible degree with the second selected pokemon without changing your capabilities. (So, for example, you can't get rid of wings, or add gills.)");
-        System.out.println("* Find the national pokedex (PD#) number of your selected pokemon. You may spend up to thirty minutes a day with your appearance changed to match the pokemon with pokedex numbers PD#-5 and/or the pokemon with pokedex number PD#+5. During this time you'll possess the physical body of this other pokemon (adjusted to your current level of anthropomorphism,) but cannot use any special abilities from either your actual pokemon type or the alternate form you\'re in.");
+        System.out.println("* Find the national pokedex (PD#) number of your selected pokemon. You may spend up to thirty minutes a day with your appearance changed to match the pokemon with pokedex numbers PD#-5 and/or the pokemon with pokedex number PD#+5. During this time you'll possess the physical body of this other pokemon (adjusted to your current level of anthropomorphism) but cannot use any special abilities from either your actual pokemon type or the alternate form you're in.");
         System.out.println("* {2 CP} Your color scheme now matches the shiny color scheme for your species.");
 
         System.out.println();
