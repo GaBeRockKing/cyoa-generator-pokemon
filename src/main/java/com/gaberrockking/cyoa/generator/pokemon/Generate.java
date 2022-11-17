@@ -78,7 +78,7 @@ public class Generate {
         System.out.println("\tHave either of your parents ever worked for Nintendo?");
         meme = "y".equalsIgnoreCase(reader.readLine());
 
-        System.out.println("\tDo you hold an Oscar, Olympic medal, Nobel prize, or membership in the Rock 'n Roll hall of fame or the forbes \"Most Powerful People\" list?");
+        System.out.println("\tDo you hold an Oscar, Olympic medal, Nobel prize, or membership in the Rock 'n Roll Hall of Fame or the forbes \"Most Powerful People\" list?");
         boolean celebrity = "y".equalsIgnoreCase(reader.readLine());
 
         reader.close();
@@ -200,7 +200,7 @@ public class Generate {
 
         System.out.println();
         System.out.println("You additionally have 3 Customization Points to spend to further customize the pokemon you'll become. Each option costs 1 Customization point, unless otherwise specified. Each optino can only be bought once. Some options are mandatory.");
-        System.out.println("* {FREE, MANDATORY} Choose your level of anthropomorphism from among [Gijinka, Anthropomorphic, Full Pokemon]. Your form will always feel “natural” and you’ll always be able to speak.");
+        System.out.println("* {FREE, MANDATORY} Choose your level of anthropomorphism from among [Gijinka, Anthropomorphic, Full Pokemon]. Your form will always feel \"natural\" and you'll always be able to speak.");
         System.out.println("* {FREE, MANDATORY (if applicable)} If you are a pokemon that comes in multiple permanent forms like Vivillion (excluding regional forms), select your default form now. (If you are a pokemon that has multiple temporary forms, you'll be able to switch between them as your species dictates. For example, Castaform mirrors the weather.)");
         System.out.println("* {FREE, MANDATORY (if applicable)} If you are a pokemon species that can have either of several non-hidden, select which one you have.");
         System.out.println("* Select another ability or hidden ability your pokemon species has access to. You can swap between posessing the ability you chose in the previous choice to posessing this second ability once per day.");
@@ -211,7 +211,7 @@ public class Generate {
         System.out.println("* You become capable of gigantamaxing once (if applicable) you reach an evolutionary stage capable of gigantamaxing.");
         System.out.println("* You become any other evolutionary stage or alternate evolution from the same evolutionary line as the pokemon you selected. (You cannot choose to become a regional form of your pokemon unless you are already a preceding regional form.)");
         System.out.println("* Select another pokemon from your options. You maintain the powers and prerequisites of your first selected pokemon, but may hybridize your appearance to any sensible degree with the second selected pokemon without changing your capabilities. (So, for example, you can't get rid of wings, or add gills.)");
-        System.out.println("* Find the national pokedex (PD#) number of your selected pokemon. You may spend up to thirty minutes a day with your appearance changed to match the pokemon with pokedex numbers PD#-5 and/or the pokemon with pokedex number PD#+5. During this time you'll possess the physical body of this other pokemon (adjusted to your current level of anthropomorphism,) but cannot use any special abilities from either your actual pokemon type or the alternate form you’re in.");
+        System.out.println("* Find the national pokedex (PD#) number of your selected pokemon. You may spend up to thirty minutes a day with your appearance changed to match the pokemon with pokedex numbers PD#-5 and/or the pokemon with pokedex number PD#+5. During this time you'll possess the physical body of this other pokemon (adjusted to your current level of anthropomorphism,) but cannot use any special abilities from either your actual pokemon type or the alternate form you\'re in.");
         System.out.println("* {2 CP} Your color scheme now matches the shiny color scheme for your species.");
 
         System.out.println();
