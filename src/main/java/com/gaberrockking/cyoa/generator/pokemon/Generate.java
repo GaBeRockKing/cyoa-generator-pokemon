@@ -199,7 +199,7 @@ public class Generate {
         }
 
         System.out.println();
-        System.out.println("You additionally have 3 Customization Points to spend to further customize the pokemon you'll become. Each option costs 1 Customization point, unless otherwise specified. Each optino can only be bought once. Some options are mandatory.");
+        System.out.println("You additionally have 3 Customization Points to spend to further customize the pokemon you'll become. Each option costs 1 Customization point, unless otherwise specified. Each option can only be bought once. Some options are mandatory.");
         System.out.println("* {FREE, MANDATORY} Choose your level of anthropomorphism from among [Gijinka, Anthropomorphic, Full Pokemon]. Your form will always feel \"natural\" and you'll always be able to speak.");
         System.out.println("* {FREE, MANDATORY (if applicable)} If you are a pokemon that comes in multiple permanent forms like Vivillion (excluding regional forms), select your default form now. (If you are a pokemon that has multiple temporary forms, you'll be able to switch between them as your species dictates. For example, Castaform mirrors the weather.)");
         System.out.println("* {FREE, MANDATORY (if applicable)} If you are a pokemon species that can have either of several non-hidden abilities, select which one you have.");
